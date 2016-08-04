@@ -1,0 +1,32 @@
+_repo: Kalevala---the-Epic-Poem-of-Finland---Volume-02_5185
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Lönnrot, Elias
+    alias: Lonnrot, Elias
+    birthdate: 1802
+    deathdate: 1884
+    gutenberg_agent_id: '4153'
+    url: http://www.gutenberg.org/2009/agents/4153
+    wikipedia: http://en.wikipedia.org/wiki/Elias_Lönnrot
+  translator:
+    agent_name: Crawford, John Martin
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '1729'
+    url: http://www.gutenberg.org/2009/agents/1729
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- Translations into English'
+- !lcc 'PH'
+- GITenberg
+title: 'Kalevala : the Epic Poem of Finland — Volume 02'
+url: http://www.gutenberg.org/ebooks/5185
